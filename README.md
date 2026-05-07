@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋 I'm Shital Thombare
 
-<!--
-**shitalthombare246-lang/shitalthombare246-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java Full Stack Developer
+🌱 Learning Python & Web Development
+🚀 Passionate about creating real-world projects
 
-Here are some ideas to get you started:
+## 🔥 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Java
+* JSP & Servlet
+* MySQL
+* HTML & CSS
+* Python
+* Git & GitHub
+
+## 📌 Projects
+
+* Fitness Tracking Web Application
+* Cafe Order Management System
+
+## 📫 Connect With Me
+
+* LinkedIn
+* GitHub
+
+⭐ Thanks for visiting my profile!
